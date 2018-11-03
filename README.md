@@ -6,3 +6,4 @@ This ipynb notebook helps the user to fetch all the official homepages/websites 
 wiki page which normally on clicking opens up a wiki page. But my code will help the user to list all the official homepage links.
 
 feel free to use your own wiki page links to scrape relevant links.
+BI_Tables.xlsx is the fetched data. have a look to get an idea.
